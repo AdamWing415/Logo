@@ -48,7 +48,7 @@ namespace Logo
             g.DrawLine(linePen, 0, 0, 600, 0);
             g.ResetTransform();
 
-            g.DrawLine(linePen, 5, 0, 410, 400);
+            g.DrawLine(linePen, 10, 0, 410, 400);
             g.FillEllipse(fillbrush, 90, 356, 90, 90);
             g.FillEllipse(fillbrush, 230, 356, 90, 90);
             
